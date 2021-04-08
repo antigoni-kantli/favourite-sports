@@ -1,1 +1,3 @@
 # favourite-sports
+swimming
+cycling
